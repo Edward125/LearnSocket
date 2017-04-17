@@ -1,0 +1,4 @@
+D:\Edward\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+D:\Edward\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\Edward\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+D:\Edward\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

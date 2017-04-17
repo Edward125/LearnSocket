@@ -1,0 +1,4 @@
+D:\Edward\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Edward\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Edward\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Edward\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
